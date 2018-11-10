@@ -3,9 +3,10 @@
   
 ## main.py
   there are init() and find_cookable_food() <br />
-  ### init()
-  init is use to remodelling inventory file depend on cooking_ro.csv
-  ### find_cookable_food()
+  - ### init()
+    - init is use to remodelling inventory file depend on cooking_ro.csv
+  - ### find_cookable_food()
+    - find cookable food depend on your inventory
 
 ## cooking_ro.csv pattern is
   NAME_IN_ENGLISH <br />
